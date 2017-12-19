@@ -51,6 +51,7 @@
 因文之傳以為光矣僣為之引¶
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB04n0308-000東維子文集-校勘記.
+# ?
 <pb:KR4d0585_SBCK_000-3a>¶
 東維子文集校勘記¶
 卷一¶
