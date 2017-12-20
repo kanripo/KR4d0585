@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 11
 #+PROPERTY: FILE SB04n0308-011東維子文集-卷第十一.
 <pb:KR4d0585_SBCK_011-1a>¶
+# SB1_1495-140.png
 東維子文集卷之十一¶
 　　　　　　　　　　　　㑹稽鐡厓楊維楨廉夫著¶
 序¶
